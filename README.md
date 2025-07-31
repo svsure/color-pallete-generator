@@ -5,7 +5,7 @@ This project is perfect for UI/UX designers, creators, or anyone who wants to ha
 ## 🌸 Features
 * Image Upload - Upload any JPG or PNG directly into the app
 * Color Extraction - Detects the 5 most dominant colors in the image
-* 🧠 KMeans Clustering – Groups similar pixel colors using a simple ML model
+* KMeans Clustering – Groups similar pixel colors using a simple ML model
 * Hex Codes Displayed – Shows exact color codes for use in design tools
 * Color Swatch Output – Interactive swatches rendered with Streamlit
 * Ready to Deploy – Works locally or on Streamlit Cloud in one click
@@ -24,4 +24,5 @@ This project is perfect for UI/UX designers, creators, or anyone who wants to ha
 - scikit-learn 
 - NumPy
 
-# Author: Srithija Sure
+## Credits
+Author: Srithija Sure
